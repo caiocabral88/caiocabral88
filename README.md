@@ -1,12 +1,12 @@
 <h1 align="center">Olá! 👋</h1>
 
 <p align="center">
-Sou um desenvolvedor front-end júnior, apaixonado por tecnologia e aprendizado contínuo.
+Sou um desenvolvedor front-end júnior em formação, apaixonado por tecnologia.
 </p>
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### 🚀 Tecnologias e Ferramentas em estudo:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
